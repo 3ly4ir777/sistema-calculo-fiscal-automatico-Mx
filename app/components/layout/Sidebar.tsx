@@ -16,6 +16,7 @@ const ITEMS: SidebarItem[] = [
   { href: '/sueldos', label: 'Sueldos y Salarios', icon: '💼', grupo: 'Personas Físicas' },
   { href: '/honorarios', label: 'Honorarios', icon: '🧾', grupo: 'Personas Físicas' },
   { href: '/arrendamiento', label: 'Arrendamiento', icon: '🏠', grupo: 'Personas Físicas' },
+  { href: '/actividad-empresarial', label: 'Actividad Empresarial', icon: '📊', grupo: 'Personas Físicas' },
   { href: '/resico', label: 'RESICO PF', icon: '⚡', grupo: 'Personas Físicas' },
   { href: '/imss', label: 'IMSS', icon: '🏥', grupo: 'Nómina' },
 ];
